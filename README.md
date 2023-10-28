@@ -1,1 +1,3 @@
 # coffee_chain_visualization
+Link to the Dashboard: https://public.tableau.com/app/profile/nishanth.dangethi/viz/Tablueau_CoffeeChain_Presentation_16975570354920/AnalysisofCoffeeChaindata
+This Tableau story provides visual insights into coffee chain stores across the USA, revealing which states generate the highest profits and which products perform well in each market. Through data analysis, we also explore how profit relates to marketing and how much each state spends on marketing different products. This comprehensive overview gives a deeper understanding of the performance of each state in the coffee chain industry.
